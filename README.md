@@ -15,8 +15,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://frehiwot-mesfin.github.io/qr-code-component-FMC/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/qrcode-using-html-and-css-08EBnRx1X9)
+- Live Site URL: [live site URL here](https://frehiwot-mesfin.github.io/qr-code-component-FMC/)
 
 ## My process
 
